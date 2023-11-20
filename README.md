@@ -27,8 +27,9 @@
 
 ## OUTPUT:
 
-![image](/image1.png)
-![image](/image2.png)
+![output](/image1.png)
+
+![output](/image2.png)
 
 
 ### Name: Haarish.V
